@@ -1,2 +1,2 @@
-# CoreAdvocate Final Build
-Fully working and deployable on Vercel.
+# CoreAdvocate™ Minimal Build
+Deploy-ready Next.js + TypeScript + Tailwind.
